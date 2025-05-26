@@ -1,2 +1,2 @@
-# MySQL
+# Tech
 For class work
